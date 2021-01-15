@@ -1,0 +1,8 @@
+./script55.sh: line 5: read: read error: 0: Bad file descriptor
+./script55.sh: line 6: [: -eq: unary operator expected
+./script55.sh: line 9: [: -ge: unary operator expected
+./script55.sh: line 12: [: -gt: unary operator expected
+./script55.sh: line 15: [: -le: unary operator expected
+./script55.sh: line 18: [: -lt: unary operator expected
+./script55.sh: line 21: [: missing `]'
+The user kb21-kulish is the current logged in user
